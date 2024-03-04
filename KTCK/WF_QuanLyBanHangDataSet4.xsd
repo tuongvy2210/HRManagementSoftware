@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="WF_QuanLyBanHangDataSet4" targetNamespace="http://tempuri.org/WF_QuanLyBanHangDataSet4.xsd" xmlns:mstns="http://tempuri.org/WF_QuanLyBanHangDataSet4.xsd" xmlns="http://tempuri.org/WF_QuanLyBanHangDataSet4.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="WF_QuanLyBanHangConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="WF_QuanLyBanHangConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.KTCK.Properties.Settings.GlobalReference.Default.WF_QuanLyBanHangConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_TinhHinhBanHangTableAdapter" GeneratorDataComponentClassName="V_TinhHinhBanHangTableAdapter" Name="V_TinhHinhBanHang" UserDataComponentName="V_TinhHinhBanHangTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="WF_QuanLyBanHangConnectionString (Settings)" DbObjectName="WF_QuanLyBanHang.dbo.V_TinhHinhBanHang" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Thang, Nam, HoTen, TongTien FROM dbo.V_TinhHinhBanHang</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Thang" DataSetColumn="Thang" />
+              <Mapping SourceColumn="Nam" DataSetColumn="Nam" />
+              <Mapping SourceColumn="HoTen" DataSetColumn="HoTen" />
+              <Mapping SourceColumn="TongTien" DataSetColumn="TongTien" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="WF_QuanLyBanHangDataSet4" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="WF_QuanLyBanHangDataSet4" msprop:Generator_UserDSName="WF_QuanLyBanHangDataSet4">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_TinhHinhBanHang" msprop:Generator_TableClassName="V_TinhHinhBanHangDataTable" msprop:Generator_TableVarName="tableV_TinhHinhBanHang" msprop:Generator_TablePropName="V_TinhHinhBanHang" msprop:Generator_RowDeletingName="V_TinhHinhBanHangRowDeleting" msprop:Generator_RowChangingName="V_TinhHinhBanHangRowChanging" msprop:Generator_RowEvHandlerName="V_TinhHinhBanHangRowChangeEventHandler" msprop:Generator_RowDeletedName="V_TinhHinhBanHangRowDeleted" msprop:Generator_UserTableName="V_TinhHinhBanHang" msprop:Generator_RowChangedName="V_TinhHinhBanHangRowChanged" msprop:Generator_RowEvArgName="V_TinhHinhBanHangRowChangeEvent" msprop:Generator_RowClassName="V_TinhHinhBanHangRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Thang" msprop:Generator_ColumnVarNameInTable="columnThang" msprop:Generator_ColumnPropNameInRow="Thang" msprop:Generator_ColumnPropNameInTable="ThangColumn" msprop:Generator_UserColumnName="Thang" type="xs:int" minOccurs="0" />
+              <xs:element name="Nam" msprop:Generator_ColumnVarNameInTable="columnNam" msprop:Generator_ColumnPropNameInRow="Nam" msprop:Generator_ColumnPropNameInTable="NamColumn" msprop:Generator_UserColumnName="Nam" type="xs:int" minOccurs="0" />
+              <xs:element name="HoTen" msprop:Generator_ColumnVarNameInTable="columnHoTen" msprop:Generator_ColumnPropNameInRow="HoTen" msprop:Generator_ColumnPropNameInTable="HoTenColumn" msprop:Generator_UserColumnName="HoTen">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TongTien" msprop:Generator_ColumnVarNameInTable="columnTongTien" msprop:Generator_ColumnPropNameInRow="TongTien" msprop:Generator_ColumnPropNameInTable="TongTienColumn" msprop:Generator_UserColumnName="TongTien" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

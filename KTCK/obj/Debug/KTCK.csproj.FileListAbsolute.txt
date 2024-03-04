@@ -1,0 +1,205 @@
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\bin\Debug\KTCK.exe.config
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\bin\Debug\KTCK.exe
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\bin\Debug\KTCK.pdb
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.csproj.AssemblyReference.cache
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.csproj.SuggestedBindingRedirects.cache
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmquanLyDonHang.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmQuanLyNhomHang.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmMatHang.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmKhachHang.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.Properties.Resources.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.csproj.GenerateResource.cache
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.csproj.CoreCompileInputs.cache
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.exe
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.pdb
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmLapHoaDon.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmTraCuuHoaDonBanHang.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\KTCK.exe.config
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\KTCK.exe
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\KTCK.pdb
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmQuanLyDonHang.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmQuanLyNhomHang.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmMatHang.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmKhachHang.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmLapHoaDon.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmTraCuuHoaDonBanHang.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.Properties.Resources.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.csproj.GenerateResource.cache
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.csproj.CoreCompileInputs.cache
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.exe
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.pdb
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmNhanVien.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmLapHoaDonMuaHang.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmLapHoaDonMuaHang.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmNhanVien.resources
+D:\HK2(2022-2023)\Lập trình wins\KTCK\KTCK\obj\Debug\KTCK.frmTraCuuHoaDonMuaHang.resources
+D:\KTCK\KTCK\bin\Debug\KTCK.exe.config
+D:\KTCK\KTCK\bin\Debug\KTCK.exe
+D:\KTCK\KTCK\bin\Debug\KTCK.pdb
+D:\KTCK\KTCK\obj\Debug\KTCK.csproj.AssemblyReference.cache
+D:\KTCK\KTCK\obj\Debug\KTCK.csproj.SuggestedBindingRedirects.cache
+D:\KTCK\KTCK\obj\Debug\KTCK.frmQuanLyDonHang.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.frmLapHoaDonMuaHang.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.frmNhanVien.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.frmQuanLyNhomHang.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.frmMatHang.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.frmKhachHang.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.frmLapHoaDon.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.frmTraCuuHoaDonMuaHang.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.frmTraCuuHoaDonBanHang.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.Properties.Resources.resources
+D:\KTCK\KTCK\obj\Debug\KTCK.csproj.GenerateResource.cache
+D:\KTCK\KTCK\obj\Debug\KTCK.csproj.CoreCompileInputs.cache
+D:\KTCK\KTCK\obj\Debug\KTCK.exe
+D:\KTCK\KTCK\obj\Debug\KTCK.pdb
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmTraCuuHoaDonMuaHang.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\EnvDTE.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\stdole.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\Microsoft.MSXML.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmReport.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\EntityFramework.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\EntityFramework.SqlServer.dll
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\EntityFramework.xml
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\bin\Debug\EntityFramework.SqlServer.xml
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.frmLogin.resources
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\RdlCompile.cache
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\RdlCompile.compiled
+D:\learning\BaiTapLon\Winform\KTCK\KTCK\obj\Debug\KTCK.csproj.CopyComplete
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\KTCK.exe.config
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\KTCK.exe
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\KTCK.pdb
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\EntityFramework.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\EntityFramework.SqlServer.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\EnvDTE.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\stdole.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\Microsoft.MSXML.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\EntityFramework.xml
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\EntityFramework.SqlServer.xml
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.csproj.AssemblyReference.cache
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmQuanLyDonHang.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmLapHoaDonMuaHang.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmLogin.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmNhanVien.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmPhongBan.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmMatHang.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmKhachHang.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmLapHoaDon.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmReport.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmTraCuuHoaDonMuaHang.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.frmTraCuuHoaDonBanHang.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.Properties.Resources.resources
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.csproj.GenerateResource.cache
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.csproj.CoreCompileInputs.cache
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.csproj.CopyComplete
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.exe
+D:\lean\HK5\QuanLyNhanSu\BTL_Winform\KTCK\KTCK\obj\Debug\KTCK.pdb

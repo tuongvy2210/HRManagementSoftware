@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="WF_QuanLyBanHangDataSet" targetNamespace="http://tempuri.org/WF_QuanLyBanHangDataSet.xsd" xmlns:mstns="http://tempuri.org/WF_QuanLyBanHangDataSet.xsd" xmlns="http://tempuri.org/WF_QuanLyBanHangDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="WF_QuanLyBanHangConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="WF_QuanLyBanHangConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.KTCK.Properties.Settings.GlobalReference.Default.WF_QuanLyBanHangConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_NhaCungCap_CongNoTableAdapter" GeneratorDataComponentClassName="V_NhaCungCap_CongNoTableAdapter" Name="V_NhaCungCap_CongNo" UserDataComponentName="V_NhaCungCap_CongNoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="WF_QuanLyBanHangConnectionString (Settings)" DbObjectName="WF_QuanLyBanHang.dbo.V_NhaCungCap_CongNo" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaNCC, TenNCC, TongCongNo, TongChi, CongNoConLai FROM dbo.V_NhaCungCap_CongNo</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaNCC" DataSetColumn="MaNCC" />
+              <Mapping SourceColumn="TenNCC" DataSetColumn="TenNCC" />
+              <Mapping SourceColumn="TongCongNo" DataSetColumn="TongCongNo" />
+              <Mapping SourceColumn="TongChi" DataSetColumn="TongChi" />
+              <Mapping SourceColumn="CongNoConLai" DataSetColumn="CongNoConLai" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="WF_QuanLyBanHangDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="WF_QuanLyBanHangDataSet" msprop:Generator_UserDSName="WF_QuanLyBanHangDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_NhaCungCap_CongNo" msprop:Generator_TableClassName="V_NhaCungCap_CongNoDataTable" msprop:Generator_TableVarName="tableV_NhaCungCap_CongNo" msprop:Generator_TablePropName="V_NhaCungCap_CongNo" msprop:Generator_RowDeletingName="V_NhaCungCap_CongNoRowDeleting" msprop:Generator_RowChangingName="V_NhaCungCap_CongNoRowChanging" msprop:Generator_RowEvHandlerName="V_NhaCungCap_CongNoRowChangeEventHandler" msprop:Generator_RowDeletedName="V_NhaCungCap_CongNoRowDeleted" msprop:Generator_UserTableName="V_NhaCungCap_CongNo" msprop:Generator_RowChangedName="V_NhaCungCap_CongNoRowChanged" msprop:Generator_RowEvArgName="V_NhaCungCap_CongNoRowChangeEvent" msprop:Generator_RowClassName="V_NhaCungCap_CongNoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaNCC" msprop:Generator_ColumnVarNameInTable="columnMaNCC" msprop:Generator_ColumnPropNameInRow="MaNCC" msprop:Generator_ColumnPropNameInTable="MaNCCColumn" msprop:Generator_UserColumnName="MaNCC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenNCC" msprop:Generator_ColumnVarNameInTable="columnTenNCC" msprop:Generator_ColumnPropNameInRow="TenNCC" msprop:Generator_ColumnPropNameInTable="TenNCCColumn" msprop:Generator_UserColumnName="TenNCC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TongCongNo" msprop:Generator_ColumnVarNameInTable="columnTongCongNo" msprop:Generator_ColumnPropNameInRow="TongCongNo" msprop:Generator_ColumnPropNameInTable="TongCongNoColumn" msprop:Generator_UserColumnName="TongCongNo" type="xs:double" minOccurs="0" />
+              <xs:element name="TongChi" msprop:Generator_ColumnVarNameInTable="columnTongChi" msprop:Generator_ColumnPropNameInRow="TongChi" msprop:Generator_ColumnPropNameInTable="TongChiColumn" msprop:Generator_UserColumnName="TongChi" type="xs:double" minOccurs="0" />
+              <xs:element name="CongNoConLai" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCongNoConLai" msprop:Generator_ColumnPropNameInRow="CongNoConLai" msprop:Generator_ColumnPropNameInTable="CongNoConLaiColumn" msprop:Generator_UserColumnName="CongNoConLai" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:V_NhaCungCap_CongNo" />
+      <xs:field xpath="mstns:MaNCC" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
